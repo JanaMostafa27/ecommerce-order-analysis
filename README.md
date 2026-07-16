@@ -34,7 +34,3 @@ This project analyzes an e-commerce orders dataset (1,200 records) covering orde
 - Python (pandas, numpy, matplotlib, scipy)
 - SQLite (via Python's built-in `sqlite3` module)
 - Jupyter Notebook / Google Colab
-
-## Author
-
-Jana Mostafa
